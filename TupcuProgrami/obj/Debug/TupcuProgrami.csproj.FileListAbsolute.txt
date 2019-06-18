@@ -1,0 +1,32 @@
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.exe.config
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.exe
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.pdb
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.Properties.Resources.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.csproj.GenerateResource.Cache
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.exe
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.pdb
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.anasayfa.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.musterifrm.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.kasafrm.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.siparisfrm.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.urunfrm.resources
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\bin\Debug\cocitup.mdf
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\bin\Debug\cocitup_log.ldf
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.exe.config
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.exe
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.pdb
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\bin\Debug\cocitup.mdf
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\bin\Debug\cocitup_log.ldf
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.exe
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.pdb
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.anasayfa.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.kasafrm.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.musterifrm.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.Properties.Resources.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.siparisfrm.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.urunfrm.resources
+C:\Users\MertAyar\Desktop\coc,\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.csproj.GenerateResource.Cache
+C:\Users\MertAyar\Desktop\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.csprojResolveAssemblyReference.cache
+C:\Users\MertAyar\Desktop\Tüpcü Programı\TupcuProgrami\TupcuProgrami\bin\Debug\TupcuProgrami.exe.config
+C:\Users\MertAyar\Desktop\Tüpcü Programı\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.exe
+C:\Users\MertAyar\Desktop\Tüpcü Programı\TupcuProgrami\TupcuProgrami\obj\Debug\TupcuProgrami.pdb
